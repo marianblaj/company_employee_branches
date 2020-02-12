@@ -11,4 +11,9 @@ public class Company {
     private String test5;
     private String test6;
 
+    public Company(String name, String address, String cif) {
+        this.name = name;
+        this.address = address;
+        this.cif = cif;
+    }
 }
