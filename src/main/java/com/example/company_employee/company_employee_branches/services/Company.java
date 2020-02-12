@@ -8,5 +8,6 @@ public class Company {
     private String address;
     private String cif;
     private String test3;
+    private String test5;
 
 }
