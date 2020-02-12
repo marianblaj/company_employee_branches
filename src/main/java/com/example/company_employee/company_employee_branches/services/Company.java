@@ -7,8 +7,9 @@ import lombok.Getter;
 @Data
 public class Company {
     private String name;
-    private String address;
-    private String a;
+    private String g;
+    private String w;
+
 
 
 
