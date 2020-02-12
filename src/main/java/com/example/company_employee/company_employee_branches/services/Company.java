@@ -9,5 +9,6 @@ public class Company {
     private String cif;
     private String test3;
     private String test5;
+    private String test6;
 
 }
